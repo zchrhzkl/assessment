@@ -1,0 +1,8 @@
+- name: Setup Basic Installation for Common Tasks
+  hosts: localhost
+  connection: local
+  become: false
+
+  tasks:
+    - name: Set timezone
+      command: timedatectl set-timezone Asia/Jakarta

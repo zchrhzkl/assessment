@@ -1,0 +1,9 @@
+company = "devops"
+
+gcp_project = "zach"
+
+gcp_region = "asia-southeast1"
+
+gcp_zone = "asia-southeast1-b"
+
+GOOGLE_APPLICATION_CREDENTIALS = "../../instance.json"

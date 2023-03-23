@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  frontend:
+    image: gcr.io/zachsawitprodevops/zchrhzkl/react:master-latest
+    container_name: fe-react
+    restart: unless-stopped
+    ports:
+      - 80:3000

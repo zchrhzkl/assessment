@@ -1,0 +1,25 @@
+## GCP authentication zach
+gcp_project = "zachsawitprodevops"
+
+## GCP Region
+gcp_region = "asia-southeast1"
+
+## GCP Zone
+gcp_zone = "asia-southeast1-b"
+
+## GCP Auth File Directory
+# GOOGLE_APPLICATION_CREDENTIALS = "../../instance.json"
+
+## Compute Engine Instance Name
+ce_name = "se1-fe-01"
+
+## Compute Engine Instance Network Name
+ce_network_name = "devops-app-development-vpc-1"
+
+## Compute Engine Instance Network Subnet
+ce_network_subnet = "devops-a-se1-app01-development-subnet-1"
+
+# GCP_FE_PUB_KEY = ""
+
+## SSH Keys
+# ssh_keys = "dev:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDwanr++3BdmaMlOxJ2t3UUfL8vi3I4rPBHx9z32NdWGSBip5lQTqvvpbepKOYFizVP2jzp2tkOTj6bxXNxsPY/N83x0WyJM6K/Ur8PItM4x2KniikvBm/uMcR2fnQZ8UXuOWxmaHcuoz20ohyiideDnN5/ryxejagOyMkBW7rgYiDykA07rY0y4j1MZCQUikdvjaawZ7nSQ3aV5zu+mXuD7F4pU4K03MR0/0pGM1MbSdsBW5g6ISesPPOOQtfJ7hFoR9D78tckI0SHWGVX4vLAe7gOVHoMqM7xU7PBUuYHgbsEO8YvabmmkMMd+UUglNnp6wvEh8/JtJI+v1rzX5MM1gI898iZH06TbsRlI2CoJtMoEYrO9zSyj0jW8wUxoR9aNA1nqi/+6PHIzeOBx405ACJzW+46hBgQr1v/y9lVXu+6HNItm+ws3229Eek9JWa3s0Zmv5RafIyrSdmvp534JSKeBxVqvl1/ij4XmVR2KbvF6ZqxfIi9QHVV7moJpVs= z@z.local"
